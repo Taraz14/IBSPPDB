@@ -8,4 +8,4 @@ cek web resminya pada :
 
 - [Al-Ghuroba](http://ibsalghurobasorong.sch.id/)
 
-@copyright
+Copyright (c) 2020, Meliodas.
