@@ -877,8 +877,9 @@ footer {
 .sidebar-wrapper .menu .sidebar-link:hover span {
   opacity: 1;
 }
+/* warna link */
 .sidebar-wrapper .menu .sidebar-link > span {
-  color: #053382;
+  color: #c333e0;
   font-weight: 500;
   margin-left: 1rem;
   opacity: 0.8;

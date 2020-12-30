@@ -1,7 +1,8 @@
 <div id="sidebar" class='active'>
     <div class="sidebar-wrapper active">
         <div class="sidebar-header">
-            <img src="assets/images/logo.svg" alt="" srcset="">
+            <img src="assets/images/MainLogo.jpg" alt="" srcset="">
+            Al-Ghuroba
         </div>
         <div class="sidebar-menu">
             <ul class="menu">

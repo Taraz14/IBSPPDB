@@ -2,10 +2,10 @@
 <footer>
     <div class="footer clearfix mb-0 text-muted">
         <div class="float-left">
-            <p>2020 &copy; Voler</p>
+            <p>2020 &copy; IBS Al-Ghuroba</p>
         </div>
         <div class="float-right">
-            <p>Crafted with <span class='text-danger'><i data-feather="heart"></i></span> by <a href="http://ahmadsaugi.com">Ahmad Saugi</a></p>
+            <p>Crafted with <span class='text-danger'><i data-feather="clock"></i></span> by <a href="https://github.com/Taraz14/IBSPPDB">Meliodas</a></p>
         </div>
     </div>
 </footer>
